@@ -53,7 +53,7 @@ const App = () => {
         {
           params: {
             client_id: apiKey,
-            count: 10,
+            count: 30,
           },
         }
       );
