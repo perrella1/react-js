@@ -8,7 +8,7 @@ To get started with any of these projects, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/react-study-projects.git
+    git clone https://github.com/yourusername/react-js.git
     ```
 2. Navigate to the project directory:
     ```bash
