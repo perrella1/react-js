@@ -1,7 +1,7 @@
 import React from 'react'
 
 import blogFetch from '../axios/config'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 import { useNavigate } from 'react-router-dom'
 
 
